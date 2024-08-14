@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
-    //Algoritimo do voto obrigatÛrio
-    //DeclaraÁ„o das vari·veis
+    //Algoritimo do voto obrigat√≥rio
+    //Declara√ß√£o das vari√°veis
    inteiro idade
 
    escreva("Digite a sua idade: ")
@@ -12,7 +12,7 @@ programa {
    } senao se (idade>=16 e idade <= 17 ou idade >= 65){
     escreva("Voto Opcional!!!!")
    } senao {
-    escreva("Voto n„o permitido!!!")
+    escreva("Voto n√£o permitido!!!")
    }
   }
 }
